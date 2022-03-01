@@ -4,16 +4,16 @@ import ProgressBar from "./ProgressBar";
 class Languages extends Component {
   state = {
     languages: [
-      { id: 1, value: "Javascript", xp: 0.2 },
-      { id: 2, value: "Css", xp: 0.2 },
-      { id: 3, value: "C++", xp: 0.7 },
-      { id: 4, value: "Sql", xp: 0.4 },
+      { id: 1, value: "Javascript", xp: 1.2 },
+      { id: 2, value: "Css", xp: 1.4 },
+      { id: 3, value: "C++", xp: 1.5 },
+      { id: 4, value: "Sql", xp: 0.5 },
     ],
     frameworks: [
-      { id: 1, value: "React", xp: 0.2 },
+      { id: 1, value: "React", xp: 0.7 },
       { id: 2, value: "Sass", xp: 0.4 },
-      { id: 3, value: "Next", xp: 0.4 },
-      { id: 4, value: "Iostream", xp: 0.5 },
+      { id: 3, value: "Next", xp: 0.6 },
+      { id: 4, value: "Iostream", xp: 1 },
     ],
   };
 
