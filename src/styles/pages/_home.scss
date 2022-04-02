@@ -37,6 +37,8 @@
         color: $color-3;
         text-shadow: 1px 4px 1px $black;
       }
+      h2::before {
+      }
       .pdf {
         a {
           font-size: 1.5rem;
