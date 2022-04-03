@@ -16,7 +16,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Terminal Mac & windows
+            Terminal Mac & Windows
           </li>
           <li>
             <i className="fas fa-check-square"></i>
@@ -26,19 +26,19 @@ const OtherSkills = () => {
         <ul>
           <li>
             <i className="fas fa-check-square"></i>
-            Lorem ipsum dolor sit.
+            Vercel
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Lorem ipsum dolor sit.
+            Montage vidéo
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Lorem ipsum dolor sit.
+            Google Drive
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Lorem ipsum dolor sit.
+            VS Code
           </li>
         </ul>
       </div>
