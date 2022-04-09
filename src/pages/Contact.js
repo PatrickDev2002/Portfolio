@@ -46,7 +46,7 @@ const Contact = () => {
         <div className="socialNetwork">
           <ul>
             <a
-              href="https://www.linkedin.com/in/patrick-delvoye-b66679215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTXWwVa7aQ3OGxr2btM1Udg%3D%3D"
+              href="https://www.linkedin.com/in/patrick-delvoye-b66679215/"
               target="_blank"
               rel="nooener noreferrer"
             >
@@ -62,12 +62,12 @@ const Contact = () => {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://codepen.io/patrickdev2002"
+              href="https://www.instagram.com/sora_dlv/"
               target="_blank"
               rel="nooener noreferrer"
             >
-              <h4>CodePen</h4>
-              <i className="fab fa-codepen"></i>
+              <h4>Instagram</h4>
+              <i className="fab fa-instagram"></i>
             </a>
           </ul>
         </div>

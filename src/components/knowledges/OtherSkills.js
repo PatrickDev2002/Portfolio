@@ -30,7 +30,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Montage vidéo
+            Débogage
           </li>
           <li>
             <i className="fas fa-check-square"></i>

@@ -44,7 +44,7 @@ const Navigation = () => {
         <ul>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://github.com/PatrickDev2002"
               target="blank"
               rel="noopener noreferrer"
             >
@@ -53,7 +53,7 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://www.linkedin.com/in/patrick-delvoye-b66679215/"
               target="blank"
               rel="noopener noreferrer"
             >
@@ -62,16 +62,16 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://www.instagram.com/sora_dlv/"
               target="blank"
               rel="noopener noreferrer"
             >
-              <i className="fab fa-twitter"></i>
+              <i className="fab fa-instagram"></i>
             </a>
           </li>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://codepen.io/patrickdev2002"
               target="blank"
               rel="noopener noreferrer"
             >
