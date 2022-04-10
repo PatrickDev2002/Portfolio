@@ -220,10 +220,15 @@
 }
 @media (max-width: 520px) {
   .radioDisplay {
-    display: none !important;
+    display: grid !important;
+    flex-direction: column;
+    justify-items: start;
+    align-content: space-evenly;
+    justify-content: space-around;
+    position: absolute;
   }
   .portfolioContent {
-    grid-template-rows: 1fr !important;
+    grid-template-rows: 1fr 2fr !important;
 
     .project {
       grid-template-rows: 30px 40px 80px 40px !important;
