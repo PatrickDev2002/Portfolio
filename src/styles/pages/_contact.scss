@@ -61,7 +61,7 @@
         position: absolute;
         bottom: -25px;
         left: 50%;
-        transform: translateX(-40%);
+        transform: translateX(-50%);
       }
     }
     ul {
@@ -79,6 +79,12 @@
         position: absolute;
         transform: translateY(2px);
         color: $color-2;
+      }
+      .fas.fa-mobile-alt::before {
+        margin-left: 1.8px;
+      }
+      .far.fa-envelope::before {
+        margin-left: -2px;
       }
       span {
         font-size: 1.4rem;
