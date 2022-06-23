@@ -37,17 +37,18 @@
         padding: 1.5rem 0 7rem;
         color: $color-3;
         text-shadow: 1px 4px 1px $black;
-      }
+      } /*
       h2::before {
-      }
+      }*/
       .pdf {
         a {
-          font-size: 1.5rem;
+          font-size: 1.4rem;
           background: $color-3;
           padding: 1rem 2rem;
           border-radius: $borderRadius;
           box-shadow: 0 5px 1px rgb(15, 15, 15);
           transition: 0.2s ease;
+          margin: 5px;
 
           &:hover {
             background: $color-4;
