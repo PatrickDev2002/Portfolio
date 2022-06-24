@@ -26,7 +26,7 @@ const OtherSkills = () => {
         <ul>
           <li>
             <i className="fas fa-check-square"></i>
-            Vercel
+            QtCréator
           </li>
           <li>
             <i className="fas fa-check-square"></i>

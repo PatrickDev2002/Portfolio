@@ -4,9 +4,10 @@ export const portfolioData = [
     name: "Tp Snake",
     languages: ["c++"],
     languagesIcons: ["fab fa-cuttlefish"],
-    source: "https://github.com/PatrickDev2002/tpSnake",
-    info: "Projet réalisé pendant ma 1ère année de BTS Informatique ou je mettais en oeuvre tous les fondements et bases du c++ que j'ai pu apprendrendre durant ce cursus scolaire.",
+    source: "./debug/delvoye_tp9_jeu_du_serpent.exe",
+    info: "Projet réalisé pendant ma 1ère année de BTS Informatique ou je mettais en oeuvre certaines compétences en c++ que j'ai pu acquérir durant ce cursus scolaire.",
     picture: "./media/tpSnake.png",
+    linkName: "Télécharger (promis ce n'est pas dangereux, c'est juste un jeu)",
   },
   {
     id: 2,
@@ -16,6 +17,7 @@ export const portfolioData = [
     source: "https://www.fewlines.tech/education/",
     info: "Cette tâche qui m'a été confié durant mon stage en entreprise à Fewlines, a dûment été codé et je me suis trouvé fort heureux de constater que ma productivité ait pu contribuer à l'entreprise.",
     picture: "./media/fewlines.png",
+    linkName: "Accéder",
   },
   {
     id: 3,
@@ -25,5 +27,6 @@ export const portfolioData = [
     source: "https://project-seven-chi.vercel.app/",
     info: "Premier projet en autonomie où je me suis amusé à mettre en oeuvre les compétences que j'ai pu acquérir durant les 2 premières semaines de stage, et ainsi tester de nouvelles choses pour moi à l'époque. Ce premier stage en entreprise m'a également permi d'aider la team 'front', en codant pour eux une page entière sur leur site web qui a été mergée il y a de ça peu de temps. Un aperçu est également disponible sur mon portfolio numérique.",
     picture: "./media/piano.jpg", // monter une courte vidéo montrant chaque page du site, un défilement d'images serait approprié
+    linkName: "Accéder",
   },
 ];

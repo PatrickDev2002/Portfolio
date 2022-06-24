@@ -12,7 +12,8 @@ class Project extends Component {
   };
 
   render() {
-    let { name, languagesIcons, source, info, picture } = this.props.item;
+    let { name, languagesIcons, source, info, picture, linkName } =
+      this.props.item;
     return (
       <div className="project">
         <div className="icons">
@@ -38,7 +39,7 @@ class Project extends Component {
                     className="button"
                     target="_blank"
                   >
-                    Code source
+                    {linkName}
                   </a>
                 </div>
               </div>
