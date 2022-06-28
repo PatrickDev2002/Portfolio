@@ -88,7 +88,7 @@
       margin: 0.5rem 0 0 0;
       text-align: center;
       width: 32%;
-      max-height: 50%;
+      max-height: 45%;
       padding: 0.3rem;
       box-shadow: $shadow;
       display: grid;
@@ -204,17 +204,28 @@
     }
   }
 }
+@media (max-width: 850px) and (min-width: 651px) {
+  .portfolioContent {
+    .project {
+      z-index: 2;
+    }
+    .infosContent {
+      width: 69% !important;
+    }
+  }
+}
 @media (max-width: 650px) and (min-width: 521px) {
   .portfolioContent {
     .project {
       width: 49% !important;
+      z-index: 2;
 
       i {
         font-size: 1rem;
       }
     }
     .infosContent {
-      width: 100% !important;
+      width: 95% !important;
     }
   }
 }
