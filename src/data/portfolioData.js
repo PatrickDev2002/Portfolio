@@ -7,7 +7,7 @@ export const portfolioData = [
     source: "./debug/delvoye_tp9_jeu_du_serpent.exe",
     info: "Projet réalisé pendant ma 1ère année de BTS Informatique ou je mettais en oeuvre certaines compétences en c++ que j'ai pu acquérir durant ce cursus scolaire.",
     picture: "./media/tpSnake.png",
-    linkName: "Jouer",
+    linkName: "Jouer (Pour PC)",
   },
   {
     id: 2,
