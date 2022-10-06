@@ -5,7 +5,7 @@ const Experience = () => {
     <div className="experience">
       <h3>Expérience</h3>
       <div className="exp-1">
-        <h4>Développeur Front -Fewlines</h4>
+        <h4>Développeur Front - Fewlines</h4>
         <h5>2021</h5>
         <p>
           J'ai eu la chance d'éffectuer un stage de 6 semaines en entreprise en
@@ -15,7 +15,7 @@ const Experience = () => {
         </p>
       </div>
       <div className="exp-2">
-        <h4>BTS SNIR -Jean Rostand</h4>
+        <h4>BTS SNIR - Jean Rostand</h4>
         <h5>2020-2022</h5>
         <p>
           Pendant 2 ans d'études en Systèmes Numériques option Informatique et
