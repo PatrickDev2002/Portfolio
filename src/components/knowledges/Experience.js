@@ -21,8 +21,8 @@ const Experience = () => {
           Pendant 2 ans d'études en Systèmes Numériques option Informatique et
           Réseaux, j'ai principalement appris les bases du réseaux et des
           langages informatiques tel que le c++, qui est un langage orienté
-          objet m'ayant servi pour le projet "Serre connectée", effectué en
-          groupe en 2ème année.
+          objet m'ayant servi pour le projet de groupe "Serre connectée",
+          effectué en 2ème année.
         </p>
       </div>
     </div>

@@ -21,8 +21,8 @@
 
     .content {
       position: absolute;
-      top: 20%;
-      left: 13%;
+      top: 17%;
+      left: 10%;
       font-family: $font-1;
 
       h1 {
@@ -33,6 +33,7 @@
         text-shadow: 3px 6px 2px $black;
       }
       h2 {
+        width: 60%;
         font-size: 2rem;
         padding: 1.5rem 0 7rem;
         color: $color-3;
