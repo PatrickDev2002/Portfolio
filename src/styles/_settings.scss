@@ -57,20 +57,17 @@ a:visited {
     display: block !important;
   }
 }
-.homeContent,
-.knowledgesContent,
-.portfolioContent,
-.contactContent {
+.homeContent {
   margin-left: 0.4rem;
-  animation-duration: 3s;
-  animation-name: glissement;
+  animation-duration: 1.5s;
+  animation-name: glissementHorizontal;
   animation-iteration-count: normal;
 
   .aller {
     animation-direction: normal;
   }
 
-  @keyframes glissement {
+  @keyframes glissementHorizontal {
     from {
       margin-right: 100%;
       width: 300%;
@@ -79,6 +76,32 @@ a:visited {
     to {
       margin-right: 0%;
       width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 850px) {
+    margin-left: 0 !important;
+  }
+}
+.knowledgesContent,
+.portfolioContent,
+.contactContent {
+  margin-left: 0.4rem;
+  animation-duration: 1.5s;
+  animation-name: reveal;
+  animation-iteration-count: normal;
+
+  .aller {
+    animation-direction: normal;
+  }
+
+  @keyframes reveal {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
     }
   }
 
