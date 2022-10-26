@@ -36,7 +36,7 @@ export const portfolioData = [
     languagesIcons: ["fab fa-html5", "fab fa-php", "fab fa-css3-alt"],
     source: "https://trenois.com/",
     info: "Grâce à F2i, j'ai pu signé un contrat de 2 ans chez trenois decamp (2022-24). Au sein de l'équipe dev web, je contribue à la maintenance du site ainsi que d'autres tâches essentiellement en php/sql pour corriger toutes sortes de bugs et/ou de remontés, pouvant nous être assigné.",
-    picture: "./media/trenois.png",
+    picture: "./media/trenois.PNG", // je sais plus pk il faut mettre PNG au lieu de png
     linkName: "Accéder",
   },
 ];
