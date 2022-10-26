@@ -20,7 +20,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square"></i>
-            Méthodes agiles
+            Sql
           </li>
         </ul>
         <ul>
